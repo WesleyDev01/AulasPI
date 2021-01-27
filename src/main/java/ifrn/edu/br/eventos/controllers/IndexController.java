@@ -11,5 +11,5 @@ public class IndexController {
 		System.out.println("Chamando o método index");
 		return "home";
 	}
-	
+
 }
